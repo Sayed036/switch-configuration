@@ -4,6 +4,11 @@ Hi everyone, My name is Sayed Hossain Ansari. I'm From Kolkata. Ambitious B.Tech
 
 ```"I am happy to share that I have learned how to configure a cisco switch." ```
 
+## Table of Contents
+- [Part 1](#networking-switch-configuation---part-1)
+- [Part 2](#networking-switch-configuation---part-2)
+- [Part 3](#networking-switch-configuation---part-3)
+
 # #Networking [Switch Configuation---Part-1]
 
 ### **Topics :-**
